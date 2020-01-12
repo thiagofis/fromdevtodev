@@ -4,4 +4,5 @@
 
 layout: default
 title: Home
+currentYear: sadasdasd
 ---
