@@ -10,3 +10,11 @@
 .akea-logo .side-logo-mobile span {
     display: inline-block;
 }
+
+.akea-mobile-header .akea-mobile-header-container .akea-logo div.akea-logo-inner.side-logo-mobile-inner {
+    line-height: inherit;
+}
+
+div.akea-mobile-header.akea-header-background.akea-style-slide.akea-sticky-mobile-navigation {
+    padding-bottom: 8px;
+}
