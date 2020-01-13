@@ -1,0 +1,12 @@
+.akea-logo .side-logo-desktop img {
+    width: 80%;
+}
+
+.akea-logo .side-logo-mobile img {
+    width: 60%;
+    margin-left: 17%;
+}
+
+.akea-logo .side-logo-mobile span {
+    display: inline-block;
+}
